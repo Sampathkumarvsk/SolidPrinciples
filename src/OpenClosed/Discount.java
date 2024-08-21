@@ -1,5 +1,11 @@
 package OpenClosed;
 
-public class Discount {
-	public double discount;
+public abstract class Discount {
+	
+	private double totalAmount;
+	
+	public abstract double applyDiscount(double discount);
+	
+	
+	
 }
