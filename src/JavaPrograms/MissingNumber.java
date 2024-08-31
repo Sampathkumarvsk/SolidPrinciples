@@ -1,5 +1,8 @@
 package JavaPrograms;
 
+import java.util.List;
+import java.util.Map;
+
 public class MissingNumber {
 
 	 //Method to calculate sum of 'n' numbers
@@ -46,8 +49,22 @@ public class MissingNumber {
 	 
 	        System.out.println("Missing Number is = "+missingNumber);
 		
+	 
+	       
+	        
+	        
+	        
+	        
+	        
+	 
+	 
+	 
+	
+	 
+	 
 		
-		
+	        
+	        
 	}
 
 }
